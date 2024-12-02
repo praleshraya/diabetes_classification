@@ -1,0 +1,71 @@
+Group,Accuracy,Recall,Precision,F1_Score,Report
+1,0.5855408388520972,0.5855408388520972,0.8182564632621399,0.6726082731329524,"              precision    recall  f1-score   support
+
+ No Diabetes       0.92      0.62      0.74     64111
+Pre-Diabetes       0.02      0.29      0.04      1389
+    Diabetes       0.29      0.43      0.35     10604
+
+    accuracy                           0.59     76104
+   macro avg       0.41      0.45      0.38     76104
+weighted avg       0.82      0.59      0.67     76104
+"
+2,0.5889703563544623,0.5889703563544623,0.8197005910611793,0.6755731668712526,"              precision    recall  f1-score   support
+
+ No Diabetes       0.92      0.62      0.74     64111
+Pre-Diabetes       0.02      0.30      0.04      1389
+    Diabetes       0.30      0.43      0.35     10604
+
+    accuracy                           0.59     76104
+   macro avg       0.41      0.45      0.38     76104
+weighted avg       0.82      0.59      0.68     76104
+"
+3,0.5862241143698097,0.5862241143698097,0.8199402577071706,0.6736261709375821,"              precision    recall  f1-score   support
+
+ No Diabetes       0.92      0.62      0.74     64111
+Pre-Diabetes       0.02      0.29      0.04      1389
+    Diabetes       0.30      0.43      0.35     10604
+
+    accuracy                           0.59     76104
+   macro avg       0.41      0.45      0.38     76104
+weighted avg       0.82      0.59      0.67     76104
+"
+4,0.5897850310101965,0.5897850310101965,0.8195160764485279,0.6761350746930429,"              precision    recall  f1-score   support
+
+ No Diabetes       0.92      0.62      0.74     64111
+Pre-Diabetes       0.02      0.29      0.04      1389
+    Diabetes       0.30      0.43      0.35     10604
+
+    accuracy                           0.59     76104
+   macro avg       0.41      0.45      0.38     76104
+weighted avg       0.82      0.59      0.68     76104
+"
+5,0.5900346893724377,0.5900346893724377,0.8202783358312177,0.6766314327833797,"              precision    recall  f1-score   support
+
+ No Diabetes       0.92      0.62      0.74     64111
+Pre-Diabetes       0.02      0.29      0.04      1389
+    Diabetes       0.30      0.43      0.35     10604
+
+    accuracy                           0.59     76104
+   macro avg       0.42      0.45      0.38     76104
+weighted avg       0.82      0.59      0.68     76104
+"
+6,0.5869336697151266,0.5869336697151266,0.8202558902467569,0.6742721535416879,"              precision    recall  f1-score   support
+
+ No Diabetes       0.92      0.62      0.74     64111
+Pre-Diabetes       0.02      0.29      0.04      1389
+    Diabetes       0.30      0.43      0.35     10604
+
+    accuracy                           0.59     76104
+   macro avg       0.41      0.45      0.38     76104
+weighted avg       0.82      0.59      0.67     76104
+"
+7,0.1684799747713655,0.1684799747713655,0.8533137548115722,0.17844467600159153,"              precision    recall  f1-score   support
+
+ No Diabetes       0.98      0.09      0.16     64111
+Pre-Diabetes       0.02      0.41      0.03      1389
+    Diabetes       0.18      0.61      0.28     10604
+
+    accuracy                           0.17     76104
+   macro avg       0.39      0.37      0.16     76104
+weighted avg       0.85      0.17      0.18     76104
+"
